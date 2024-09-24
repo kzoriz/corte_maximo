@@ -161,3 +161,4 @@ int main() {
     printf("Tempo de execução: %.4f segundos\n", tempo_execucao);
     return 0;
 }
+//comentario
